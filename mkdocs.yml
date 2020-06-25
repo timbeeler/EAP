@@ -1,0 +1,9 @@
+# Label who this EAP is created for
+site_name: EAP - Template
+
+nav:
+    - Summary: index.md
+    - Stay Alive: danger.md
+    - Evacuation: evac.md
+    - Shelter in Place: sip.md
+    - Communications: comms.md
