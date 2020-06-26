@@ -7,3 +7,5 @@ nav:
     - Evacuation: evac.md
     - Shelter in Place: sip.md
     - Communications: comms.md
+
+theme: readthedocs
