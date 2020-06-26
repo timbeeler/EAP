@@ -1,9 +1,13 @@
-#Requirements
+- intro
+- disclosures
+---
+
+#Requirements#
 - homebrew
 - mkdocs
 
 ---
-#Steps
+#Steps#
 - clone the repo
 - cd into the EAP folder on your Local
 - ```$mkdocs serve```
